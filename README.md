@@ -1,5 +1,5 @@
 # Incializando com programação Python
-Aprendizagem em Python
+Diversos programas desenvolvidos em Python
 
 >Status: Projeto Desenvolvido a cada Dia da Semana ⚠️
 
