@@ -3,7 +3,8 @@ Aprendizagem em Python
 
 >Status: Projeto Desenvolvido a cada Dia da Semana ⚠️
 
-Deixarei o meu progresso a cada dia de aprendizagem na linguagem de Python, sendo uma fonte de pesquisa para me auxiliar ou qualquer outra pessoa com os mesmo interesse que o meu. 
+Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tentando aplicar o conceito adquirido em situções do cotiadiano, sendo uma fonte de pesquisa para me auxiliar em outros projetos e até mesmo ajudar pessoas com seu desenvolvimento. 
+
 
 
 ## Tecnologias utilizadas:
