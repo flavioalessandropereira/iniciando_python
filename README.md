@@ -8,7 +8,8 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 ### Lista dos Projetos
 * Aluguel automóvel
 * Cálculo salarial
-* Cáculo de funções matemáticas ⚠️
+* Sorteio entre 04 nomes de alunos
+* Cálculo Seno,Cosseno e Tangente ⚠️
 ## Comandos 
 
 * print ('=' * 10)
