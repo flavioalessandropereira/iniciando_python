@@ -8,6 +8,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 ### Lista dos Projetos
 * Aluguel automóvel
 * Cálculo salarial
+* Cáculo de funções matemáticas ⚠️
 ## Comandos 
 
 * print ('=' * 10)
