@@ -8,8 +8,13 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 ### Lista dos Projetos
 * Aluguel automóvel
 * Cálculo salarial
+* Cálculo Seno,Cosseno e Tangente
 * Sorteio entre 04 nomes de alunos
-* Cálculo Seno,Cosseno e Tangente ⚠️
+* Sorteio da apresentação de alunos
+* Tocando música MP# com Playsound
+* Tocando música MP3 com Pygame
+
+*  ⚠️
 ## Comandos 
 
 * print ('=' * 10)
