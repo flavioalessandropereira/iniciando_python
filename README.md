@@ -14,6 +14,8 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 * Tocando música MP# com Playsound
 * Tocando música MP3 com Pygame
 
+** Manipulando textos no python
+
 * continuando ...  ⚠️
 ## Comandos 
 
