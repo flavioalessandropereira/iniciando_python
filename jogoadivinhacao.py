@@ -1,11 +1,11 @@
 import random
 import time
 def linhas():
-  print('-=' *20)
+  print('-=' *30)
 
 
 linhas()
-print('        JOGO DE ADIVINHAÇÃO')
+print('                JOGO DE ADIVINHAÇÃO')
 linhas()
 
 pc = int(input('De 0 a xx, qual número a ser jogado: '))

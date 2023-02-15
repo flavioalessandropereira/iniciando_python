@@ -11,15 +11,18 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - Aluguel automóvel
 - Cálculo salarial
 - Cálculo Seno,Cosseno e Tangente
+-  <strong style="color:blue" > JOGO DE ADIVINHAÇÃO</strong>
 - Sorteio entre 04 nomes de alunos
 - Sorteio da apresentação de alunos
-- Tocando música MP# com Playsound
+
+### <span  style="color:red">Tocador MP3 </span>
+- Tocando música MP3 com Playsound
 - Tocando música MP3 com Pygame
 
 \*\* Manipulando textos no python
 
-- continuando ...
-  ⚠️
+- continuando ... ⚠️
+
 
 ## Comandos
 
