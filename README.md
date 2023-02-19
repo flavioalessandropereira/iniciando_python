@@ -13,6 +13,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - Cálculo Seno,Cosseno e Tangente
 - Sorteio entre 04 nomes de alunos
 - Sorteio da apresentação de alunos
+- Jogo do par ou ímpar **inicializando
 
 ### <span  style="color:red">Tocador MP3 </span>
 - Tocando música MP3 com Playsound
