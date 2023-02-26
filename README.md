@@ -25,7 +25,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - <strong style="color:green">IDE VsCode</strong> -  introduzido cores na excecução do programa usando a biblioteca <span  style="color:red">RICH</span>
 
 
-## Comandos
+## Comandos ***
 
 - print ('=' \* 10)
   saída: ==========
