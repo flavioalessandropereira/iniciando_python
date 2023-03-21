@@ -6,7 +6,7 @@ def layout():
   print( '=' *30)
   
 layout()
-print('     Jogo JOKENPÔ')
+print('Jogo JOKENPÔ')
 layout()
 
 itens = ('PEDRA', 'PAPEL', 'TESOURA')
@@ -36,7 +36,7 @@ sleep(1)
 
 layout()
 
-print ('Computador jogou: {} '.format(itens[computador]))
+print ('Computador jogou: {}'.format(itens[computador]))
 print('Jogador jogou: {}'.format(itens[jogador]))
 
 layout()
@@ -66,3 +66,11 @@ elif computador == 2:
        print( 'EMPATE')
 
 
+nome = input('Qual seu nome? ')
+
+print('Prazer em te conhecer {}!'.format(nome))
+
+print('Prazer em te conhecer {:>20}!'.format(nome))
+print('Prazer em te conhecer {:<20}!'.format(nome))
+print('Prazer em te conhecer {:20}!'.format(nome))
+print('Prazer em te conhecer {:^20}!'.format(nome))
