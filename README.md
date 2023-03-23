@@ -11,7 +11,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - Aluguel automóvel
 - Cálculo salarial
 - Cálculo Seno,Cosseno e Tangente
-- Jokenpô (novo)
+- Jokenpô
 - Sorteio entre 04 nomes de alunos
 - Sorteio da apresentação de alunos
 - Jogo do par ou ímpar **inicializando
