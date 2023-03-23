@@ -64,13 +64,3 @@ elif computador == 2:
       print('COMPUTADOR VENCE')
     elif jogador == 2:
        print( 'EMPATE')
-
-
-nome = input('Qual seu nome? ')
-
-print('Prazer em te conhecer {}!'.format(nome))
-
-print('Prazer em te conhecer {:>20}!'.format(nome))
-print('Prazer em te conhecer {:<20}!'.format(nome))
-print('Prazer em te conhecer {:20}!'.format(nome))
-print('Prazer em te conhecer {:^20}!'.format(nome))
