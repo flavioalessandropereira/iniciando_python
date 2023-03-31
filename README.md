@@ -1,4 +1,4 @@
-# Incializando com programação Python
+# Incializando com Programação Python
 
 Diversos programas desenvolvidos em Python
 
