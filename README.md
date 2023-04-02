@@ -15,6 +15,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - Sorteio entre 04 nomes de alunos
 - Sorteio da apresentação de alunos
 - Jogo do par ou ímpar **inicializando
+-  Tela de Login no Python
 
 ### <span  style="color:red">Tocador MP3 </span>
 - Tocando música MP3 com Playsound
