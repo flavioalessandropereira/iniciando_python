@@ -6,7 +6,7 @@ Diversos programas desenvolvidos em Python
 
 Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tentando aplicar o conceito adquirido em situções do cotiadiano, sendo uma fonte de pesquisa para me auxiliar em outros projetos e até mesmo ajudar pessoas com seu desenvolvimento.
 
-### Lista dos Projetos
+### Lista dos Projetos:
 
 - Aluguel automóvel
 - Cálculo salarial
