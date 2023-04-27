@@ -16,7 +16,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - Sorteio da apresentação de alunos
 - Jogo do par ou ímpar **inicializando
 - Tela de Login no Python
-**estudando novas propostas de projetos, voltados a programação Python.
+**estudando novas propostas de projetos, voltados a programação Python (utilização do for).
 ### <span  style="color:red">Tocador MP3 </span>
 - Tocando música MP3 com Playsound
 - Tocando música MP3 com Pygame
