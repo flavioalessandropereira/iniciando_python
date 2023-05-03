@@ -14,8 +14,9 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - Jokenpô
 - Sorteio entre 04 nomes de alunos
 - Sorteio da apresentação de alunos
-- Jogo do par ou ímpar **inicializando
-- Tela de Login no Python
+- Jogo do par ou ímpar
+- Tela de Login no Python ** utilizando biblioteca PySimpleGUI
+
 **estudando novas propostas de projetos, voltados a programação Python (utilização do for e AI ado ChatGPT).
 ### <span  style="color:red">Tocador MP3 </span>
 - Tocando música MP3 com Playsound
