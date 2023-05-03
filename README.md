@@ -18,6 +18,10 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - Tela de Login no Python ** utilizando biblioteca PySimpleGUI
 
 **estudando novas propostas de projetos, voltados a programação Python (utilização do for e AI ado ChatGPT).
+
+
+### Comandos Úteis
+- Dominando Strings - Upper / Lower / Title / 
 ### <span  style="color:red">Tocador MP3 </span>
 - Tocando música MP3 com Playsound
 - Tocando música MP3 com Pygame
