@@ -19,3 +19,5 @@ print('####' + menu + '####')
 
 print(menu.center(14)) #centraliza o texto em 14 espços
 print(menu.center(14, '#')) #centraliza o texto e coloca o carater # no lugar do espaço
+
+print('-'.join(menu)) # P-y-t-h-o-n

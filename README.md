@@ -21,7 +21,8 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 
 
 ### Comandos Úteis
-- Dominando Strings - Upper / Lower / Title
+- Dominando Strings - Upper / Lower / Title / Strip
+- Repetição usando for ... in / for...range / while
 
 
 ### <span  style="color:red">Tocador MP3 </span>
