@@ -21,7 +21,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 
 
 ### Comandos Úteis
-- Dominando Strings - Upper / Lower / Title / Strip
+- Dominando Strings - Upper / Lower / Title / Strip / Join
 - Repetição usando for ... in / for...range / while
 - INterpola;cão de variáveis - f-string
 
