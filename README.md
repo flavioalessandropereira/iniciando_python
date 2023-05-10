@@ -41,7 +41,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - print ('=' \* 10)
   saída: ==========
 
-## <span  style="color:red">Tecnologias Utilizadas</span>
+## <span  style="color:red">Tecnologias em Desenvolvimento</span>
 
 - [Python](https://docs.python.org/pt-br/3/tutorial/index.html) : é uma linguagem de programação de alto nível.
 
