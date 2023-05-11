@@ -32,8 +32,8 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 
 
 #### <strong style="color:blue" > JOGO DE ADIVINHAÇÃO</strong>
-- <strong style="color:green"> IDE PyCharm</strong> - introduzido cores na excecução do programa usando o<span  style="color:red"> ANSI </span>
-- <strong style="color:green">IDE VsCode</strong> -  introduzido cores na excecução do programa usando a biblioteca <span  style="color:red">RICH</span>
+- <strong style="color:green"> IDE PyCharm</strong> - cores na excecução do programa usando o<span  style="color:red"> ANSI </span>
+- <strong style="color:green">IDE VsCode</strong> -  utilizando a biblioteca <span  style="color:red">RICH</span>, para adicionar cores.
 
 
 ## Comandos Úteis 
