@@ -15,7 +15,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - Sorteio entre 04 nomes de alunos
 - Sorteio da apresentação de alunos
 - Jogo do par ou ímpar
-- Tela de Login no Python ** utilizando biblioteca PySimpleGUI
+- Tela de Login no Python => utilizando biblioteca PySimpleGUI
 
 ** estudando novas propostas de projetos, voltados a programação Python (utilização do for e AI ado ChatGPT).
 
