@@ -10,8 +10,6 @@ extrato = ''
 linha()
 print('{:^60}'.format('BANCO FTF'))
 
-
-
 menu = '''
 [1] - Depositar
 [2] - Sacar
@@ -41,8 +39,6 @@ while True:
           extrato += f'Depósito: R$ {valor:.2f}\n'
         else:
           print('Falha na operação de DEPÓSITO.')
-
-
 
     elif opcao == '2':
       linha()
