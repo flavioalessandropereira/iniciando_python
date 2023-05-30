@@ -16,6 +16,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 - Sorteio da apresentação de alunos
 - Jogo do par ou ímpar
 - Tela de Login no Python ** utilizando biblioteca PySimpleGUI
+- Sistema Bancário v1
 
 ** estudando novas propostas de projetos, voltados a programação Python (utilização do for e AI ado ChatGPT).
 
