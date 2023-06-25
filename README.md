@@ -1,6 +1,6 @@
 # Incializando Programação Python
 
-Diversos programas desenvolvidos em Python
+Diversos programas desenvolvidos em Python.
 
 > Status: Projeto Desenvolvido a cada Dia da Semana ⚠️
 
