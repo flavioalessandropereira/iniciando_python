@@ -4,6 +4,7 @@ print('*' *50)
 print('{:^50}'.format(empresa))
 print('*' *50)
 
+# Entrada de dias e km rodados
 dias_alugados = int(input('Quantos dias alugado: '))
 km_rodados = float (input('Total de km rodados? '))
 
