@@ -10,7 +10,7 @@ Deixarei o meu progresso a cada dia de aprendizagem na linguagem em Python, tent
 
 - Aluguel Automóvel
 - Cálculo Salarial
-- Cálculo Seno,Cosseno e Tangente
+- Cálculo Seno, Cosseno e Tangente
 - Jokenpô
 - Sorteio entre 04 nomes de alunos
 - Sorteio da apresentação de alunos
